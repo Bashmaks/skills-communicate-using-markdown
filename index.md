@@ -4,3 +4,5 @@
 #### H4 header
 ##### H5 header
 ###### H6 header
+
+![Image of a sheep](/assets/test.png)
