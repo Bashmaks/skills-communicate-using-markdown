@@ -6,3 +6,15 @@
 ###### H6 header
 
 ![Image of a sheep](/assets/test.png)
+
+``` javascript
+var test = "Hello, world";
+```
+
+``` dart
+var test = 'Hello, World!';
+```
+
+``` python
+test = [a for a in 'This is Python code']
+```
